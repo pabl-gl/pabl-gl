@@ -1,37 +1,55 @@
-```bash
-~ $ whoami
-```
+# 👨‍💻 Pablo García López
 
-# Pablo García López
+**Estudiante de Ingeniería Informática · Ciberseguridad · Inteligencia Artificial**
 
-> Estudiante de Ingeniería Informática · Ciberseguridad & IA
+> GNU/Linux · Sistemas · Seguridad · IA aplicada
 
-Cursando Grado en Ingeniería Informática (mención Computación) en la Universidade da Coruña. 
-Interesado en ciberseguridad y aplicaciones de inteligencia artificial. 
-Actualmente desarrollando mi TFG sobre sistemas automatizados de threat intelligence mediante IA en MásOrange.
+---
+
+## 🚀 Sobre mí
+
+Estudiante de **Ingeniería Informática (mención Computación)** en la **Universidade da Coruña**, con especial interés en **ciberseguridad**, **threat intelligence** y **aplicaciones de inteligencia artificial en entornos reales**.
+
+Actualmente desarrollo mi **Trabajo Fin de Grado** en **MásOrange**, centrado en la **automatización de sistemas de inteligencia de amenazas mediante técnicas de IA**, combinando análisis de datos, OSINT y arquitectura de sistemas.
+
+Perfil orientado a:
+- comprensión profunda de sistemas,
+- automatización,
+- seguridad defensiva,
+- y diseño de soluciones robustas y escalables.
 
 ---
 
 ## 🎓 Formación
 
-**Grado en Ingeniería Informática, mención Computación**  
-*Universidade da Coruña* · 2022 – 2026
+### 🎓 Grado en Ingeniería Informática · Mención Computación  
+**Universidade da Coruña (UDC)** · *2022 – 2026*
 
-Competencias: Machine Learning, Deep Learning, Visión por Computador, Information Retrieval (Apache Lucene), 
-Administración de sistemas y redes GNU/Linux, Bases de datos SQL, AWS.
+**Áreas y competencias técnicas:**
+- Machine Learning & Deep Learning
+- Visión por Computador
+- Information Retrieval (Apache Lucene)
+- Sistemas GNU/Linux y redes
+- Bases de datos SQL
+- Computación y programación de bajo nivel
+- Cloud (AWS)
 
-**B2 First Certificate in English**  
-*University of Cambridge* · Diciembre 2023
+---
+
+### 🌍 B2 First Certificate in English  
+**University of Cambridge** · *Diciembre 2023*
 
 ---
 
 ## 💼 Experiencia
 
-**Becario de Investigación · TFG**  
-*MásOrange* · Actualidad
+### 🧪 Becario de Investigación · Trabajo Fin de Grado  
+**MásOrange** · *Actualidad*
 
-Desarrollo de mi Trabajo Fin de Grado sobre sistemas automatizados de inteligencia de amenazas 
-(threat intelligence) mediante técnicas de inteligencia artificial.
+Desarrollo de un sistema de **threat intelligence automatizado**, aplicando técnicas de:
+- recolección y normalización de datos OSINT,
+- análisis inteligente de indicadores de compromiso (IoCs),
+- y apoyo a la toma de decisiones mediante modelos de IA.
 
 ---
 
@@ -39,31 +57,23 @@ Desarrollo de mi Trabajo Fin de Grado sobre sistemas automatizados de inteligenc
 
 ```python
 stack = {
-    "languages": ["Python", "C", "Java", "Julia", "OCaml", "Dart", "JavaScript"],
-    "systems": ["GNU/Linux", "Shell", "Networking"],
-    "ai_data": ["Machine Learning", "Computer Vision", "Information Retrieval"],
-    "security": ["Threat Intelligence", "OSINT"]
+    "languages": [
+        "Python", "C", "Java", "Julia", 
+        "OCaml", "Dart", "JavaScript"
+    ],
+    "systems": [
+        "GNU/Linux", "Shell scripting",
+        "Networking", "System administration"
+    ],
+    "ai_data": [
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "Information Retrieval (Lucene)"
+    ],
+    "security": [
+        "Threat Intelligence",
+        "OSINT",
+        "Security fundamentals"
+    ]
 }
-```
-
----
-
-## 🌐 Idiomas
-
-- 🇪🇸 **Español** - Nativo
-- 🇪🇸 **Gallego** - Nativo  
-- 🇬🇧 **Inglés** - B2 (Cambridge)
-
----
-
-## 📫 Contacto
-
-- 🌐 [pablogl.com](https://pablogl.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/pablo-garc%C3%ADa-l%C3%B3pez-53562b286/)
-- 📧 [hola@pablogl.com](mailto:hola@pablogl.com)
-
----
-
-```bash
-~ $ exit
-```
