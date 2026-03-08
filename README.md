@@ -1,8 +1,8 @@
 #  About Me:
-I’m currently working on my **Final Degree Project (TFG)** at **MásOrange**, focused on **automated threat intelligence systems using AI**  
-I’m looking to collaborate on **AI, cybersecurity and systems-related projects**  
-I’m currently studying **Computer Science (Computing branch)** at Universidade da Coruña  
-Interested in **Threat Intelligence, OSINT, Machine Learning and Linux-based systems**
+- I’m currently working on my **Final Degree Project (TFG)** at **MásOrange**, focused on **automated threat intelligence systems using AI**  
+- I’m looking to collaborate on **AI, cybersecurity and systems-related projects**  
+- I’m currently studying **Computer Science (Computing branch)** at Universidade da Coruña  
+- Interested in **Threat Intelligence, OSINT, Machine Learning and Linux-based systems**
 
 ---
 
